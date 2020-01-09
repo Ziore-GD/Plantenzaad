@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7f66e1a6401bc42bb039a4c81dcf82, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  m_Sprites:
+  - {fileID: 21300000, guid: bbd3d23d9e8fc914a928cd48569c60d5, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 74978219b1ae832448d4142e307817c3, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: cbbd263c40487d442888de9c29cfa2d4, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: aa385bfdb34b5994587a46a6ad9eb462, type: 3}
+  - {fileID: 21300000, guid: bbd3d23d9e8fc914a928cd48569c60d5, type: 3}
+  m_ColliderType: 2
